@@ -23,7 +23,7 @@ A história do Saeed e da sua empresa é inusitada. A família dele é propriet�
 ###As empresas
 A Plug and Play fica em um prédio de 3 (três) andares. Um espaço muito grande. Quase todo o prédio é formado pavilhões, cada um destes representado por uma nacionalidade. O Eventick divide espaço com a também brasileira [SocialBase](www.socialbase.com.br/), que desenvolve uma rede social corporativa. Ao nosso lado temos os pavilhões português, alemão e chileno. Ainda vi empresas da Espanha, Israel, Austria, Canadá e várias de Singapura, totalizando mais de 300 startups.
 
-![Nacionalidades na PnP](http://farm5.staticflickr.com/4044/5160116309_03eb10d110_z.jpg "Pavilhões Plug and Play")
+![Empresas compradas ou investidas](https://lh4.googleusercontent.com/-Ec-ZuVYPzhQ/URqINt4T4JI/AAAAAAAAGoQ/iS99wamGyXU/s640/IMG_20130212_100728.jpg "Empresas da Plug and Play")
 
 ###Fundos e grandes empresas
 Do outro lado, estão os maiores fundos de investimento do país. Sempre atentos a uma boa oportunidade de investimento, além das grandes empresas como Alcatel, GM, Huawei, Mercedes-Benz, Microsoft e outras, em busca de uma tecnologia inovadora que possam surgir de uma dessas empresas.
@@ -32,3 +32,5 @@ O slogan da Plug and Play é [Silicon Valley in a Box](http://youtu.be/f1rjb_DxD
 
 ###Eventick na PnP
 Na primeira semana, assistimos a três dias de palestras que nos ajudaram a entender como funcionam as coisas no Vale. Foram várias palestras com [VC's](http://en.wikipedia.org/wiki/Venture_capital) explicando como preparar um [pitch](http://en.wikipedia.org/wiki/Elevator_pitch) e quais os passos necessários para quem busca um investimento. Houve, também, palestras sobre como conseguir um visto para empreender nos Estados Unidos, falando sobre as leis que influenciam na abertura de empresas. Por fim, conhecemos vários casos de sucesso que passaram pela Plug and Play. Acredito que o maior deles seja o Paypal.
+
+![Nacionalidades na PnP](https://lh4.googleusercontent.com/-WeNknUDX2LY/URqINrerlnI/AAAAAAAAGoU/nvp_njc457I/s640/IMG_20130212_100809.jpg "Bandeiras PnP")
