@@ -48,7 +48,7 @@ Meteor (Flávio Junior - Barganhou.la)
 ----------------------
 
 Sem dúvida o [Meteor](http://www.meteor.com/) é um framework bastante promissor para se construir web apps, [Flávio Junior](https://www.facebook.com/flaviojuvenal) demostrou suas caracteristicas e detalhou o funcionamento de uma aplicação de leaderboard.
-O framework é todo em Javascript, tanto a parte do servidor quanto a do cliente. Com o meteor é possível acessar dados persistidos em banco como se eles estivem no navegador. 
+O framework é todo em Javascript, tanto a parte do servidor quanto a do cliente. Com o meteor é possível acessar dados persistidos em banco como se eles estivessem no navegador. 
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/25262488" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/flaviojuvenal/comeando-com-meteor-25262488" title="Começando com meteor" target="_blank">Começando com meteor</a> </strong> from <strong><a href="http://www.slideshare.net/flaviojuvenal" target="_blank">Flávio Junior</a></strong> </div>
 
