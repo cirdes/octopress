@@ -42,28 +42,28 @@ MARCEL DURAN - Performance as a Twitter feature
 
 RENATO MANGINI - Where modern front-end tooling has gone
 --------------
-O [Renato Mangini](https://twitter.com/renatomangini), desenvolvedor e evangelista do Google falou sobre as 3 ferramentas que facilitam a vida do desenvolvedor Front-end: [Yeoman](http://yeoman.io/), [Grunt](http://gruntjs.com/) e [Bower](http://bower.io/). Segundo ele, a vida do desenvolvedor Front-end mudou nos últimos anos. Hoje é comum utilizarmos sprites, [CoffeScript](http://coffeescript.org/), [SCSS](http://sass-lang.com/), gerar builds para teste, homologação e fazer deploy. Com o Yoman é possível fazer scaffold, com o Grunt automatizar tarefas e com o Bower resolvedor dependências. Durante a palestra, o Mangini fez um call com o [Addy Osmani](https://twitter.com/addyosmani) que lançou a versão 1.0 do Yeoman ao vivo.
+O [Renato Mangini](https://twitter.com/renatomangini), desenvolvedor e evangelista do Google falou sobre as 3 ferramentas que facilitam a vida do desenvolvedor Front-end: [Yeoman](http://yeoman.io/), [Grunt](http://gruntjs.com/) e [Bower](http://bower.io/). Segundo ele, a vida do desenvolvedor Front-end mudou nos últimos anos. Hoje é comum utilizarmos sprites, [CoffeScript](http://coffeescript.org/), [SCSS](http://sass-lang.com/), gerar builds para teste, homologação e fazer deploy. Com o Yeoman é possível fazer scaffold, com o Grunt automatizar tarefas e com o Bower resolvedor dependências. Durante a palestra, o Mangini fez um call com o [Addy Osmani](https://twitter.com/addyosmani) que lançou a versão 1.0 do Yeoman ao vivo.
 
 <iframe src="http://talks.renatomangini.com/2013/braziljs/index.html" width="800" height="600"></iframe>
 
 ZEKE SIKELIANOS - Crowdsourcing Heroku's Node Buildpack
 ---------------
 
-Em seguida tivemos a palestra do [Zeke](https://twitter.com/zeke) do Heroku. Particularmente eu estava esperando essa palestra, o contato para que Zeke estivesse presente no BrazilJS surgiu de uma visita que fiz ao Heroku no começo ano. Ele é responsável pelo [Buildpack](https://github.com/heroku/heroku-buildpack-nodejs) do [NodeJS](http://nodejs.org/), para quem não sabe o Buildpack é um bash script que detecta, baixa e compila o node quando se faz um deploy no heroku. Segundo Zeke, o JavaScript já é a segunda linguagem mais popular no heroku, perdendo apenas para [ruby](http://www.ruby-lang.org/).
+Em seguida tivemos a palestra do [Zeke](https://twitter.com/zeke) do Heroku. Particularmente, eu estava esperando muito por essa palestra, pois o contato para que Zeke estivesse presente no BrazilJS surgiu de uma visita que fiz ao Heroku no começo ano. Ele é responsável pelo [Buildpack](https://github.com/heroku/heroku-buildpack-nodejs) do [NodeJS](http://nodejs.org/), para quem não sabe o Buildpack é um bash script que detecta, baixa e compila o node quando se faz um deploy no heroku. Segundo Zeke, o JavaScript já é a segunda linguagem mais popular no heroku, perdendo apenas para [ruby](http://www.ruby-lang.org/).
 
 <iframe src="http://ba2.herokuapp.com/" width="800" height="600"></iframe>
 
 ZENO ROCHA - Um futuro chamado Web Components
 --------------
 
-Este ano o [Zeno Rocha](https://twitter.com/zenorocha) falou sobre as cinco novas especificações: Templates, Decorators, Shadow DOM, Custom Elements e Imports. Zeno fez uma reflexão de como o Javascript evoluí citando exemplos como Flash e Jquery Seletor que hoje podem ser substituídos por técnicas nativas. Falou sobre a tendência de reutilizar código através de componetes e mostrou como criar seus próprios componentes. Para finalizar, Zeno revelou mais um projeto open-source criado juntamente com [Bernard de Luna](https://twitter.com/bernarddeluna) e [Eduardo Lundgren](https://twitter.com/eduardolundgren), o [Custom Elements](http://customelements.io/), uma galeria de web components.
+Este ano o [Zeno Rocha](https://twitter.com/zenorocha) falou sobre as cinco novas especificações: Templates, Decorators, Shadow DOM, Custom Elements e Imports. Zeno fez uma reflexão de como o Javascript evoluíu citando exemplos como Flash e JQuery Seletor que hoje podem ser substituídos por técnicas nativas. Falou sobre a tendência de reutilizar código através de componetes e mostrou como criar seus próprios componentes. Para finalizar, Zeno revelou mais um projeto open-source criado juntamente com [Bernard de Luna](https://twitter.com/bernarddeluna) e [Eduardo Lundgren](https://twitter.com/eduardolundgren), o [Custom Elements](http://customelements.io/), uma galeria de web components.
 
 <script async class="speakerdeck-embed" data-id="375ae900ee6101301719122e5a5beb4c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ROBERT NYMAN -	Bringing the open web and APIs to mobile devices with Firefox OS
 -------------
 
-O [Robert Nyman](https://twitter.com/robertnyman) começou falando sobre a Mozilla, em seguida, começou a apresentar o Firefox OS que está chegando ao Brasil pela telefônica. Por fim, ele apresentou a api do Firefox OS.
+O [Robert Nyman](https://twitter.com/robertnyman) começou falando sobre a Mozilla e, em seguida, apresentou o Firefox OS, que está chegando ao Brasil pela Telefônica. Por fim, ele apresentou a API do Firefox OS.
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/25553346" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
 
@@ -83,7 +83,7 @@ Palestras - Segundo dia
 DEMIAN BORBA - Buscando a melhor performance em Aplicativos Móveis com HTML5
 ---------------
 
-A palestra de abertura do segundo dia de evento foi a de [Demian Borba](https://twitter.com/demianborba), outra palestra sobre performance. Demian destacou que performance impacta em usabilidade e que o Yahoo aumenta seu tráfego em 9% para cada 400 milisegundos em melhoria de performance e que a amazon aumenta sua receita em 1% para cada 100 milisegundos reduzidos. Ele ainda apresentou várias dicas para conseguir uma melhoria de desempenho e finalizou sua palestra falando sobre o Blackberry 10.
+A palestra de abertura do segundo dia de evento foi a de [Demian Borba](https://twitter.com/demianborba), outra palestra sobre performance. Demian destacou que performance impacta em usabilidade e que o Yahoo aumenta seu tráfego em 9% para cada 400 milisegundos em melhoria de performance e que a Amazon aumenta sua receita em 1% para cada 100 milisegundos reduzidos. Ele ainda apresentou várias dicas para conseguir uma melhoria de desempenho e finalizou sua palestra falando sobre o Blackberry 10.
 
 <script async class="speakerdeck-embed" data-id="7a1701b0ee390130460622df94f3aa7c" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
@@ -127,6 +127,7 @@ Umas das palestras mais aguardadas foi a do [Stoyan](https://twitter.com/stoyans
 <iframe src="http://www.slideshare.net/slideshow/embed_code/25622424" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
 
 DOUGLAS CROCKFORD - Programming Style and Your Brain
+-----------------
 
 Sem dúvida, a palestra mais aguardada do evento foi a do [Douglas Crockford](http://www.crockford.com/). Veterano do JavaScript, ele é responsável pela criação do formato [JSON](http://www.json.org/) e da ferramenta [JSLint](http://www.jslint.com/) além de ser autor do livro [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do). Em sua palestra, Crockford se baseou na psicologia para fazer uma analogia entre Cabeça e Vísceras. A primeira sendo responsável por decisões racionáveis e a segunda por decisões instintivas. Segundo ele, programação é a atividade mais complexa que as pessoas executam, é preciso cabeça e vísceras. Como em toda linguagem, o JavaScript tem partes boas e ruins, através de exemplos ele mostrou como o JSLint avisa quando você está utilizando uma parte ruim.
 <iframe src="http://www.slideshare.net/slideshow/embed_code/14858206" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
@@ -135,7 +136,7 @@ Por fim
 -------
 -------
 
-Gostaria de agradecer a Jaydson e Felipe pela organização desse evento fantástico. O BrazilJS foi a primeira grande conferência do Eventick, é um evento que fazemos questão de participar.
+Gostaria de agradecer a Jaydson e Felipe pela organização desse evento fantástico. O BrazilJS 2012 foi a primeira grande conferência do Eventick, é um evento que fazemos questão de participar.
 
 Além disso, é uma oportunidade de rever amigos de todo o Brazil e passar bons momentos com os amigos de Pernambuco. Nos encontraremos no [BrazilJS 2014](http://www.eventick.com.br/braziljs-2014).
 
