@@ -11,7 +11,7 @@ Introdução
 ------
 
 Para startups ou empresas que estão construindo um produto web, alguns serviços e ferramentas podem facilitar o desenvolvimento, a gestão e o monitoramento do seu produto. Dentro de uma startup, é papel do CTO garantir o bom andamento do desenvolvimento e que a plataforma que está sendo construída tenha a menor quantidade de erros possíveis, além de atender as expectativas de performance.
-Ferramentas de baixo custo ou gratuitas podem facilitar bastante esse trabalho, especialmente em pequenas startups onde todo esse trabalho recai sobre apenas uma pessoa. As ferramentas que irei apresentar são as que usamos diariamente no [Eventick](https://www.eventick.com.br/): Github, Trello, Codeship, Errbit, Logentries, Newrelic.
+Ferramentas de baixo custo ou gratuitas podem facilitar bastante esse trabalho, especialmente em pequenas startups onde todo esse trabalho recai sobre apenas uma pessoa. As ferramentas que irei apresentar são as que usamos diariamente no [Eventick](https://www.eventick.com.br/): Github, Trello, Codeship, Errbit, Logentries e Newrelic.
 
 <!-- more -->
 
@@ -21,7 +21,7 @@ Github
 
 {% img left /images/post_7/github2.png %}
 
-O [Github](https://github.com/) é o maior serviço de repositório de código online, a maioria dos projetos open source estão armazenados no Github. Para projetos open source o Github é gratuito e por apenas 9 dólares mensais é possível ter acesso a até 5 repositórios privados. Ele vai muito além de um simples repositório de código, sendo muito útil para catalogar bugs e ideias para novas funcionalidades como podemos ver no projeto do [Rails](https://github.com/rails/rails/issues) (Veja!). Como no exemplo do Rails, usamos as issues para catalogar bugs e discutir features. Adicionamos tags as nossas issues e agrupamos em milestones para sejam priorizadas e implementadas, servindo assim como um backlog. Assim como nos projetos open source, precisamos saber tudo que é modificado no nosso código e discutir essas mudanças. O Github tem um recurso chamado [Pull Request](https://help.github.com/articles/using-pull-requests), todo nova funcionalidade deve ser submetida para revisão da equipe. Além de garantir que nada indesejado seja colocado no código, permite nivelar a equipe pois todos questionam ou são questionados pelo seu código. Uma alternativa gratuita pode ser o [BitBucket](https://bitbucket.org/)   
+O [Github](https://github.com/) é o maior serviço de repositório de código online, a maioria dos projetos open source estão armazenados no Github. Para projetos open source o Github é gratuito e por apenas 9 dólares mensais é possível ter acesso a até 5 repositórios privados. Ele vai muito além de um simples repositório de código, sendo muito útil para catalogar bugs e ideias para novas funcionalidades como podemos ver no projeto do [Rails](https://github.com/rails/rails/issues) (Veja!). Como no exemplo do Rails, usamos as issues para catalogar bugs e discutir features. Adicionamos tags as nossas issues e agrupamos em milestones para sejam priorizadas e implementadas, servindo assim como um backlog. Assim como nos projetos open source, precisamos saber tudo que é modificado no nosso código e discutir essas mudanças. O Github tem um recurso chamado [Pull Request](https://help.github.com/articles/using-pull-requests), toda nova funcionalidade deve ser submetida para revisão da equipe. Além de garantir que nada indesejado seja colocado no código, permite nivelar a equipe pois todos questionam ou são questionados pelo seu código. Uma alternativa gratuita pode ser o [BitBucket](https://bitbucket.org/)   
 
 Trello
 ------
@@ -36,7 +36,7 @@ Codeship
 ------
 ------
 {% img left /images/post_7/codeship.png %}
-Configurar e manter um servidor de [continuous integration](http://en.wikipedia.org/wiki/Continuous_integration) pode ser uma tarefa chata e demora. Quem nunca perdeu horas configurando o [Jenkins](http://jenkins-ci.org/) e depois teve a frustração de ver seu servidor parar de funcionar devido a uma nova dependência que você adicionou ao seu projeto. O [Codeship](http://codeship.io/) é um serviço que custa 9 dólares mensais, ele é bem simples de ser adicionado ao seu projeto. Com o Codeship, uma vez que modificamos o nosso repositório de código, ele detecta essa modificação, baixa a nova versão e executa todos os testes automatizados. Caso os testes passem, ele faz o deploy para o servidor de homologação do Eventick. Caso os testes falhem, ele envia um email mostrando quais testes não passaram e quem foi o responsável por quebrá-los. Para mais informações sobre Continuios Integration eu recomendo esse [texto](http://www.martinfowler.com/articles/continuousIntegration.html#BenefitsOfContinuousIntegration) de Martin Fowler
+Configurar e manter um servidor de [continuous integration](http://en.wikipedia.org/wiki/Continuous_integration) pode ser uma tarefa chata e demora. Quem nunca perdeu horas configurando o [Jenkins](http://jenkins-ci.org/) e depois teve a frustração de ver seu servidor parar de funcionar devido a uma nova dependência que você adicionou ao seu projeto? O [Codeship](http://codeship.io/) é um serviço que custa 9 dólares mensais, ele é bem simples de ser adicionado ao seu projeto. Com o Codeship, uma vez que modificamos o nosso repositório de código, ele detecta essa modificação, baixa a nova versão e executa todos os testes automatizados. Caso os testes passem, ele faz o deploy para o servidor de homologação do Eventick. Caso os testes falhem, ele envia um email mostrando quais testes não passaram e quem foi o responsável por quebrá-los. Para mais informações sobre Continuios Integration eu recomendo esse [texto](http://www.martinfowler.com/articles/continuousIntegration.html#BenefitsOfContinuousIntegration) de Martin Fowler
 
 Errbit
 ------
@@ -56,7 +56,7 @@ NewRelic
 ------
 
 {% img left /images/post_7/newrelic.png %}
-Mesmo que tenhamos uma plataforma livre de erros, saber como ela está se comportando em termos de performance é fundamental. O tempo de resposta está diretamente ligada a satisfação do usuário. De acordo com [pesquisas:](http://alistapart.com/article/improving-ux-through-front-end-performance), 
+Mesmo que você tenha uma plataforma livre de erros, saber como ela está se comportando em termos de performance é fundamental. O tempo de resposta está diretamente ligada a satisfação do usuário. De acordo com [pesquisas:](http://alistapart.com/article/improving-ux-through-front-end-performance), 
 
 * Adicionar meio segundo ao tempo de carregamento de uma página de resultados de busca pode diminuir o tráfego e os lucros com publicidade em 20%, segundo estudo do Google.
 
